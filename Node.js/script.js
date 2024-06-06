@@ -1,0 +1,5 @@
+let info = require("./Fruits")
+let math = require("./math")
+console.log(info)
+console.log(math)
+console.log(math.sum(2,4))
